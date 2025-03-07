@@ -6,7 +6,7 @@ A simple and efficient tool to convert images into PDF files.
 
 You can download the executable version here:
 
-[Download ImageToPDF Converter v1.0.0](https://github.com/user-attachments/files/19116849/ImageToPDF.Converterv1.0.0.zip)
+[Download ImageToPDF Converter v1.0.0](https://github.com/HeyLetsLearnSomething/imagetopdf/releases/)
 
 ## Installation (Python Version)
 
