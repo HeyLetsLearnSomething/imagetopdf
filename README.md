@@ -9,7 +9,7 @@ This is the executable version of the file created using cx_Freeze! Please note 
 [Download ImageToPDF Converter v1.0.0](https://github.com/HeyLetsLearnSomething/imagetopdf/releases/)
 
 ### Screenshot  
-![ImageToPDF Converter](https://heyletslearnsomething.com/wp-content/uploads/2025/03/Image-To-PDF.png)
+![ImageToPDF Converter](https://heyletslearnsomething.com/wp-content/uploads/2025/03/Image-To-PDF-Convertor.png)
 
 ## Installation
 
@@ -53,4 +53,8 @@ python ImageToPdf.py
 
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
 
+## More Resources  
+
+🎥 **For more Python-related videos**, check out our YouTube channel::  
+🔗 [Watch Python Tutorials](https://www.youtube.com/watch?v=rLzeGJ6C318&list=PLPkKgerlNTP8IoVkxhioSjBYGnhuWN2fB&ab_channel=Hey%2CLet%27sLearnSomething)
 
