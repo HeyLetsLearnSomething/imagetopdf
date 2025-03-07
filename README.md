@@ -14,32 +14,31 @@ Follow these steps to set up the environment:
 
 ### 1. Create a Python Environment
 If you're using Anaconda, run the following command:
-bash
+```bash
 conda create --name ImageToPDF python=3.12
-
+```
 
 ### 2. Activate the Environment
-bash
+```bash
 conda activate ImageToPDF
-
+```
 
 ### 3. Install Dependencies
-bash
+```bash
 pip install -r requirements.txt
-
+```
 
 ### 4. Navigate to the Project Folder
-bash
+```bash
 cd C:/users/your_project_folder
-
+```
 
 ## Usage
 
 To run the application, execute:
-bash
+```bash
 python ImageToPdf.py
-
-
+```
 
 ## Features
 
@@ -50,3 +49,5 @@ python ImageToPdf.py
 ## License
 
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
+
+
