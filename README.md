@@ -4,7 +4,7 @@ A simple and efficient tool to convert images into PDF files.
 
 ## Download
 
-You can download the executable version here:
+This is the executable version of the file created using cx_Freeze! Please note that some antivirus programs might detect it as a virus. If that happens, you may need to disable or whitelist the file in your antivirus program or proceed with the following installation.
 
 [Download ImageToPDF Converter v1.0.0](https://github.com/HeyLetsLearnSomething/imagetopdf/releases/)
 
